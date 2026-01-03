@@ -44,7 +44,13 @@ This icon is available in the following fixed sizes:
 
 ---
 
+# No Movement Indicator — Visual Properties
+
 ## Color
-**Color Token Used:**
+origin-action-information-default
+
+## Stroke
+origin-stroke-emphasized
+
 
 
