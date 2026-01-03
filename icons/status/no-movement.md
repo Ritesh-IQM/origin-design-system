@@ -1,29 +1,50 @@
-# No Movement Indicator
-
 ![No Movement Indicator](images/no-movement-indicator.png)
 
 
+# No Movement Indicator
+
+## Overview
+The **No Movement Indicator** is a neutral status icon used in the leaderboard to represent a state where a user’s rank has **not changed** between two comparison points.
+
+It communicates stability without implying success or failure.
+
+---
+
 ## Purpose
-Represents a neutral leaderboard state where a user's rank has not changed.
+To indicate **no change** in leaderboard position in a calm, non-judgmental manner.
 
-## Meaning & Semantics
-- Indicates no upward or downward movement
-- Neutral, informational state
-- Non-judgmental
+This icon is intentionally minimal to avoid emotional pressure in competitive or progress-based contexts.
 
-## Usage
-Use when:
-- Leaderboard rank remains unchanged
-- Comparing two ranking states with zero delta
+---
 
-## Do Not Use
-- As a placeholder
-- For loading or empty states
-- Outside leaderboard or ranking contexts
+## Visual Representation
+- Shape: Single horizontal dash
+- Geometry: Flat, minimal
+- Directionality: None
+- Motion: None
 
-## Accessibility
-- Screen reader label: “No change in leaderboard position”
-- Informational, not interactive
+The icon avoids arrows, symbols, or decorative elements to preserve neutrality.
 
-## Notes
-This icon intentionally avoids emotional or directional cues to reduce pressure on learners.
+---
+
+## Sizes
+This icon is available in the following fixed sizes:
+
+| Size Name | Dimensions |
+|---------|------------|
+| XL | 32 × 32 |
+| L | 28 × 28 |
+| M | 24 × 24 |
+| S | 20 × 20 |
+
+**Rules**
+- Do not scale arbitrarily between sizes  
+- Always use the nearest predefined size  
+- Maintain consistent stroke weight across all sizes  
+
+---
+
+## Color
+**Color Token Used:**
+
+
