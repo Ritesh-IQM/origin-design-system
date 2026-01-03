@@ -1,5 +1,8 @@
 # No Movement Indicator
 
+![No Movement Indicator](images/no-movement-indicator.png)
+
+
 ## Purpose
 Represents a neutral leaderboard state where a user's rank has not changed.
 
